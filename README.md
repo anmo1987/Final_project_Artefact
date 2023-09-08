@@ -3,7 +3,7 @@
 This project is divised in two main parts based on the skin cancer Kaggle dataset:
 https://www.kaggle.com/datasets/farjanakabirsamanta/skin-cancer-dataset
 
-- NLP part : Text analysis of skin diseases description from Yales Medical University
+- NLP_Analysis : Text analysis of skin diseases description from Yales Medical University
 - Image Analysis :
     - EDA and DataVisualization on the HAM10000.csv file (Part1)
     - ML analysis of the HAM10000.csv file (Part2)
